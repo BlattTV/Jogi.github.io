@@ -1,0 +1,5 @@
+C:\Users\plays\OneDrive\Desktop\App\bin\Release\net6.0\publish\App.exe
+C:\Users\plays\OneDrive\Desktop\App\bin\Release\net6.0\publish\App.dll
+C:\Users\plays\OneDrive\Desktop\App\bin\Release\net6.0\publish\App.deps.json
+C:\Users\plays\OneDrive\Desktop\App\bin\Release\net6.0\publish\App.runtimeconfig.json
+C:\Users\plays\OneDrive\Desktop\App\bin\Release\net6.0\publish\App.pdb
